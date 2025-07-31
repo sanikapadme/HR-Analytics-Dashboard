@@ -1,14 +1,14 @@
 # HR Analytics Dashboard
 
 ## Overview
-This interactive Power BI dashboard provides a comprehensive analysis of Human Resources (HR) data, built using the `HR_Analytics.csv` dataset. The primary goal of this project is to **[e.g., provide key insights into employee attrition, analyze workforce demographics, track HR key performance indicators (KPIs)]** to enable data-driven decision-making for HR professionals and business leaders.
+This interactive Power BI dashboard provides a comprehensive analysis of Human Resources (HR) data, built using the `HR_Analytics.csv` dataset. The primary goal of this project is to **provide key insights into employee attrition, analyze workforce demographics, track HR key performance indicators (KPIs)]** to enable data-driven decision-making for HR professionals and business leaders.
 
 ## Features
-* **[e.g., Employee Attrition Analysis]:** Visualize and analyze factors contributing to employee turnover, including departmental attrition rates, job role impacts, and demographic breakdowns.
-* **[e.g., Workforce Demographics]:** Explore employee distribution by age, gender, education, department, and job level.
-* **[e.g., Performance Metrics]:** Track critical HR KPIs such as average years at company, job satisfaction levels, and total employees.
-* **[e.g., Interactive Filters]:** Seamlessly filter data by various dimensions like department, education field, and business travel to drill down into specific segments.
-* **[e.g., Salary vs. Performance Insights]:** Analyze the relationship between compensation and performance/satisfaction.
+* **[Employee Attrition Analysis]:** Visualize and analyze factors contributing to employee turnover, including departmental attrition rates, job role impacts, and demographic breakdowns.
+* **[Workforce Demographics]:** Explore employee distribution by age, gender, education, department, and job level.
+* **[Performance Metrics]:** Track critical HR KPIs such as average years at company, job satisfaction levels, and total employees.
+* **[Interactive Filters]:** Seamlessly filter data by various dimensions like department, education field, and business travel to drill down into specific segments.
+* **[Salary vs. Performance Insights]:** Analyze the relationship between compensation and performance/satisfaction.
 
 ## Technologies & Tools
 * **Microsoft Power BI Desktop:** Used for data modeling, DAX calculations, and designing the interactive dashboard visualizations.
@@ -19,9 +19,9 @@ This interactive Power BI dashboard provides a comprehensive analysis of Human R
 The dashboard is built upon the `HR_Analytics.csv` dataset, which contains various employee attributes and performance metrics. This dataset is included in this repository.
 
 ## Key Insights / Findings (Example - tailor to your specific findings!)
-* Identified that employees in the 'Research & Development' department show a higher **[e.g., job satisfaction rate / attrition rate]** compared to other departments.
-* Revealed a correlation between **[e.g., overtime and lower job satisfaction]**, suggesting areas for policy review.
-* Pinpointed **[e.g., specific age groups / job roles]** with higher attrition rates, indicating potential focus areas for retention strategies.
+* Identified that employees in the 'Research & Development' department show a higher **[job satisfaction rate / attrition rate]** compared to other departments.
+* Revealed a correlation between **[overtime and lower job satisfaction]**, suggesting areas for policy review.
+* Pinpointed **[specific age groups / job roles]** with higher attrition rates, indicating potential focus areas for retention strategies.
 
 ## How to View
 1.  **Clone the repository:**
