@@ -4,7 +4,7 @@
 This interactive Power BI dashboard provides a comprehensive analysis of Human Resources (HR) data, built using the `HR_Analytics.csv` dataset. The primary goal of this project is to **provide key insights into employee attrition, analyze workforce demographics, track HR key performance indicators (KPIs)]** to enable data-driven decision-making for HR professionals and business leaders.
 
 ## Features
-* **Employee Attrition Analysis]:** Visualize and analyze factors contributing to employee turnover, including departmental attrition rates, job role impacts, and demographic breakdowns.
+* **Employee Attrition Analysis:** Visualize and analyze factors contributing to employee turnover, including departmental attrition rates, job role impacts, and demographic breakdowns.
 * **Workforce Demographics:** Explore employee distribution by age, gender, education, department, and job level.
 * **Performance Metrics:** Track critical HR KPIs such as average years at company, job satisfaction levels, and total employees.
 * **Interactive Filters:** Seamlessly filter data by various dimensions like department, education field, and business travel to drill down into specific segments.
